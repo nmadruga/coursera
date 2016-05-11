@@ -42,9 +42,8 @@ h2 {
 .section {
   background-color: #FFB6C1;
   border: 1px solid black;
-  height: 230px;
   margin: 10px;
-  overflow: hidden;
+  overflow: visible;
   text-align: center;
   box-sizing: border-box;
 }
